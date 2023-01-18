@@ -1,0 +1,3 @@
+et string="Manik"
+let CharCount = string.Count
+print ("Character count of String\(string)is: \(charCount)")
